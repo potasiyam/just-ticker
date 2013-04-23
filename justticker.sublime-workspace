@@ -1,0 +1,1548 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"JT",
+				"JT_PlugIn"
+			],
+			[
+				"phys",
+				"physician"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"bo",
+				"box-shadow"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"ph",
+				"physician"
+			],
+			[
+				"col",
+				"cols"
+			],
+			[
+				"Pati",
+				"Patient"
+			],
+			[
+				"Patient",
+				"patientLName"
+			],
+			[
+				"coll",
+				"collectionDate"
+			],
+			[
+				"glob",
+				"global"
+			],
+			[
+				"post_",
+				"post_type"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"user",
+				"userType"
+			],
+			[
+				"new",
+				"newquery"
+			],
+			[
+				"ar",
+				"args"
+			],
+			[
+				"the",
+				"thequery"
+			],
+			[
+				"meta",
+				"meta_query"
+			],
+			[
+				"patient",
+				"patientFName"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"prat",
+				"practiceName"
+			],
+			[
+				"phy",
+				"physicianPhone"
+			],
+			[
+				"dis",
+				"display_name"
+			],
+			[
+				"physi",
+				"physicianPhone"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"pract",
+				"practiceName"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"val",
+				"values"
+			],
+			[
+				"repo",
+				"reportAttachID"
+			],
+			[
+				"report",
+				"reportPDF"
+			],
+			[
+				"pat",
+				"patientTelephone"
+			],
+			[
+				"post",
+				"post_id"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"publi",
+				"publicFeed"
+			],
+			[
+				"site",
+				"site-name"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"tes",
+				"testiFname"
+			],
+			[
+				"cb",
+				"cb_testi_lname"
+			],
+			[
+				"uploa",
+				"uploaddir"
+			],
+			[
+				"tm",
+				"tmp_name"
+			],
+			[
+				"upl",
+				"uploadfile"
+			],
+			[
+				"up",
+				"uploaddir"
+			],
+			[
+				"testi",
+				"testiPhoto"
+			],
+			[
+				"testiOcc",
+				"testiOccYear"
+			],
+			[
+				"bro",
+				"bro_id"
+			],
+			[
+				"no",
+				"noOfItems"
+			],
+			[
+				"viVisitDa",
+				"viVisitDateYear"
+			],
+			[
+				"viVisitDate",
+				"viVisitDateMon"
+			],
+			[
+				"success",
+				"successMsg"
+			],
+			[
+				"succ",
+				"successMsg"
+			],
+			[
+				"su",
+				"successmessage"
+			],
+			[
+				"Sub",
+				"Subscription"
+			],
+			[
+				"subsOC",
+				"subsOcDate"
+			],
+			[
+				"subsOc",
+				"subsOcDate"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"add",
+				"AddTestPage"
+			],
+			[
+				"pag",
+				"pageCopyright"
+			],
+			[
+				"get_",
+				"get_option"
+			],
+			[
+				"alb",
+				"albumEmail"
+			],
+			[
+				"al",
+				"albumEmail"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"ca",
+				"carousel-control"
+			],
+			[
+				"slid",
+				"slideimagecaption"
+			],
+			[
+				"t",
+				"tbody	Tag"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"album",
+				"albumName"
+			],
+			[
+				"page",
+				"pageid"
+			],
+			[
+				"err",
+				"error_log"
+			],
+			[
+				"fil",
+				"fileLocation"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"get_po",
+				"get_post_custom"
+			],
+			[
+				"va",
+				"values"
+			],
+			[
+				"cb_meta_box",
+				"cb_meta_box_photos"
+			],
+			[
+				"item",
+				"items"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"cba",
+				"cbAlbumPhoto"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"viVisitti",
+				"viVisittime"
+			],
+			[
+				"sfSh",
+				"sfShoeB"
+			],
+			[
+				"sfShir",
+				"sfShirtCollM"
+			],
+			[
+				"sfIns",
+				"sfInsideLM"
+			],
+			[
+				"sfH",
+				"sfHOther"
+			],
+			[
+				"sf",
+				"sfHow"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"sfSho",
+				"sfShoeM"
+			],
+			[
+				"sfshir",
+				"sfShirtCollM"
+			],
+			[
+				"sfches",
+				"sfChestM"
+			],
+			[
+				"sfin",
+				"sfInsideLM"
+			],
+			[
+				"sfIn",
+				"sfInsideLB"
+			],
+			[
+				"sfC",
+				"sfChestB"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"border-ra",
+				"border-radius"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"ima",
+				"Images"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"cborm",
+				"cbformjs"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"tax",
+				"tax_query"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"rea",
+				"repeat-x"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"color",
+				"background-color"
+			],
+			[
+				"bord",
+				"border-style"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"cbcoll",
+				"cbcollection"
+			],
+			[
+				"clear",
+				"clearfix"
+			],
+			[
+				"te",
+				"textarea"
+			],
+			[
+				"brDa",
+				"brDateYear"
+			],
+			[
+				"br",
+				"brTBC"
+			],
+			[
+				"selec",
+				"selected"
+			],
+			[
+				"cfP",
+				"cfPromo"
+			],
+			[
+				"cfO",
+				"cfOther"
+			],
+			[
+				"cfH",
+				"cfHow"
+			],
+			[
+				"cfS",
+				"cfStore"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/E/Wamp/www/wordpress/wp-content/plugins/dx-plugin-base/dx-plugin-base.php",
+			"settings":
+			{
+				"buffer_size": 10798,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Wamp/www/wordpress/wp-content/plugins/dx-plugin-base/dx-plugin-settings.class.php",
+			"settings":
+			{
+				"buffer_size": 3659,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/E/Wamp/www/ezpipelite/wp-content/plugins/notification-toolbar/notification.php",
+			"settings":
+			{
+				"buffer_size": 8828,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "justticker.php",
+			"settings":
+			{
+				"buffer_size": 3314,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/jtstyle.css",
+			"settings":
+			{
+				"buffer_size": 765,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Wamp/www/ezpipelite/wp-content/themes/style.css",
+			"settings":
+			{
+				"buffer_size": 27523,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Wamp/www/ezpipelite/wp-content/plugins/wpfixedverticalfeedbackbutton/wpfixedverticalfeedbackbutton.php",
+			"settings":
+			{
+				"buffer_size": 12105,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/jtscript.js",
+			"settings":
+			{
+				"buffer_size": 622,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Wamp/www/wordpress/wp-content/plugins/wpfixedverticalfeedbackbutton/wpfixedverticalfeedbackbutton.php",
+			"settings":
+			{
+				"buffer_size": 14331,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/E/Wamp/www/wordpress/wp-content/plugins/wordpresssocialpowerpack/wordpresssocialpowerpack - Copy.php",
+			"settings":
+			{
+				"buffer_size": 26219,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "?>\n<?php\n/*\n * Plugin Name: Just Ticker\n * Plugin URI: http://www.potasiyam.com\n * Author: Tanbin Islam Siyam\n * Author URI: http://www.potasiyam.com\n * Version: 1.0\n * Text Domain: just-ticker\n * License: GPL2\n *\n * Copyright 2011 Tanbin Islam Siyam (email : potasiyam AT gmail DOT com)\n */\n?>\n\n<?\n",
+			"settings":
+			{
+				"buffer_size": 299,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Wamp/www/triathlon/wp-content/plugins/cb-flickr-gallery/cb-flickr-gallery.php",
+			"settings":
+			{
+				"buffer_size": 8766,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "inc/jt-options.php",
+			"settings":
+			{
+				"buffer_size": 494,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Wamp/www/WPRS/wp-content/themes/twentytwelve/cbinclude/frontscript.js",
+			"settings":
+			{
+				"buffer_size": 394,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 59.0,
+		"selected_items":
+		[
+			[
+				"package control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/Wamp/www/wordpress/wp-content/themes/twentytwelve/js/navigation.js",
+		"/E/Wamp/www/wordpress/wp-includes/js/admin-bar.js",
+		"/E/Wamp/www/wordpress/wp-content/plugins/justticker/inc/jt-options.php",
+		"/E/Wamp/www/wordpress/wp-content/plugins/simpleticker/simpleticker.php",
+		"/E/Wamp/www/WPRS/wp-content/themes/twentytwelve/cbinclude/admincustomstyle.css",
+		"/E/Wamp/www/WPRS/wp-content/themes/twentytwelve/cbinclude/frontstyle.css",
+		"/E/Wamp/www/WPRS/wp-content/themes/bones/library/custom-post-type.php",
+		"/E/Wamp/www/WPRS/wp-admin/users.php",
+		"/E/Wamp/www/newproject/wp-admin/users.php",
+		"/E/Wamp/www/WPRS/wp-content/themes/twentytwelve/cbinclude/frontscript.js",
+		"/E/Wamp/www/wordpress/wp-content/plugins/notification-toolbar/notification.php",
+		"/E/Wamp/www/ezpipelite/wp-content/plugins/wpfixedverticalfeedbackbutton/wpfixedverticalfeedbackbutton.php",
+		"/E/Wamp/www/wordpress/wp-content/plugins/dx-plugin-base/dx-plugin-base.php",
+		"/E/Wamp/www/ezpipelite/wp-content/plugins/notification-toolbar/notification.php",
+		"/E/Wamp/www/ezpipelite/wp-content/plugins/notification-toolbar/static-toolbar.css",
+		"/E/Wamp/www/premiumdermpath.com/mystica4_wrdp2 - Copy.sql",
+		"/E/Wamp/www/premiumdermpath.com/wp-config.php",
+		"/E/Wamp/www/WPRS/wp-content/themes/twentytwelve/page-physicianlist.php",
+		"/E/Wamp/www/WPRS/wp-content/themes/twentytwelve/page-physician.php",
+		"/E/Wamp/www/WPRS/wp-content/themes/twentytwelve/page-admin.php",
+		"/E/Wamp/www/WPRS/wp-content/themes/twentytwelve/cbinclude/admincustomscript.js",
+		"/E/Wamp/www/WPRS/wp-content/themes/twentytwelve/customfunction.php",
+		"/E/Wamp/www/WPRS/wp-content/themes/twentytwelve/content.php",
+		"/E/Wamp/www/WPRS/wp-content/themes/twentytwelve/index.php",
+		"/E/Wamp/www/wordpress/wp-content/plugins/wpfixedverticalfeedbackbutton - Copy/wpfixedverticalfeedbackbutton.php",
+		"/E/Wamp/www/WPRS/wp-content/plugins/wp-paginate/wp-paginate.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/library/js/cbajaxcalls.js",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/functionscustom.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/page-cbtestimonial.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/options.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/page-testimonial-post.php",
+		"/E/Wamp/www/WPRS/wp-content/themes/twentytwelve/page-admin - Copy.php",
+		"/E/Wamp/www/WPRS/wp-content/themes/twentytwelve/cbinclude/datepicker/js/eye.js",
+		"/E/Wamp/www/WPRS/wp-content/themes/twentytwelve/admincustomstyle.css",
+		"/E/Wamp/www/WPRS/wp-content/themes/twentytwelve/author.php",
+		"/E/Wamp/www/WPRS/wp-content/themes/twentytwelve/page.php",
+		"/E/Wamp/www/WPRS/wp-admin/admin-ajax.php",
+		"/E/Wamp/www/WPRS/wp-content/themes/twentytwelve/functions.php",
+		"/E/Wamp/www/WPRS/wp-content/themes/bones/page-custom.php",
+		"/E/Wamp/www/WPRS/wp-content/themes/bones/customfunction.php",
+		"/E/Wamp/www/WPRS/wp-content/themes/bones/functions.php",
+		"/E/Wamp/www/wordpress/wp-content/plugins/wpfixedverticalfeedbackbutton/wpfixedverticalfeedbackbutton.php",
+		"/E/Wamp/www/wordpress/wp-content/plugins/flickr-gallery/flickr-gallery.php",
+		"/E/Wamp/www/myseat-master/config/config.general.php",
+		"/E/Wamp/bin/php/php5.3.10/php.ini",
+		"/E/Wamp/www/mySeatXT/config/config.general.php",
+		"/E/Wamp/www/mySeatXT/config/config.inc.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/archive-cbcollection.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/custom.css",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/single-cbcollection.php",
+		"/G/Siyam/Adobe Photoshop Lightroom 4.3 Final (32 bit) [ChingLiu]/Adobe Photoshop Lightroom 4.3 Final (32 bit) [ChingLiu]/ChingLiu.Install.Notes.nfo",
+		"/E/Wamp/www/wordpress/wp-content/plugins/cb-flickr-gallery/cb-flickr-gallery.php",
+		"/C/Users/Siyam/.ssh/known_hosts",
+		"/E/Wamp/www/wordpress/wp-content/plugins/wordpresssocialpowerpack - Copy.php",
+		"/E/Wamp/www/wordpress/wp-content/plugins/dx-plugin-base/inc/base-page-template.php",
+		"/E/Wamp/www/wordpress/wp-content/plugins/dx-plugin-base/dx-plugin-settings.class.php",
+		"/E/Wamp/www/wordpress/wp-content/plugins/wordpress-social-power-pack/cblib/cblib-input.php",
+		"/E/Wamp/www/wordpress/wp-content/plugins/dx-plugin-base/inc/dx-sample-widget.class.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/page-contactform-post.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/single-cbphotoalbum.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/header.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/page-albumpost.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/index.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/page-album.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/single-cbtestimonial.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/archive-cbtestimonial.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/page-sizeorder.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/taxonomy-cbcollectioncat.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/page-cbcollection.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/functions.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/footer.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/library/mailchimp/config.inc.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/page-subscribe.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/library/js/cbformjs.js",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/admin/options-interface.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/library/less/master.css",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/search.php",
+		"/E/Wamp/www/wordpress/wp-content/plugins/wordpress-social-power-pack/wordpress-social-power-pack.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/page-brochurereq-post.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/single-cbcollection.php.back.php",
+		"/E/Wamp/www/newproject/wp-settings.php",
+		"/E/Wamp/www/newproject/xmlrpc.php",
+		"/E/Wamp/www/newproject/.htaccess",
+		"/E/Wamp/www/newproject/wp-config.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/functionscustom2.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/library/bootstrap-carousel/css/bootstrap-carousel.css",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/library/js/bootstrap.js",
+		"/E/Wamp/logs/apache_error.log",
+		"/C/Users/Siyam/Desktop/test.o",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/page-homepage.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/page-outfitselector.php",
+		"/C/Users/Siyam/AppData/Roaming/Sublime Text 2/Packages/Emmet/Emmet.sublime-settings",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/searchform.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/page-brochurereq-post - Copy.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/category.php",
+		"/E/Wamp/www/triathlon/wp-content/themes/wordpress-bootstrap/functions.php",
+		"/C/Users/Siyam/.ssh/config",
+		"/E/Wamp/www/triathlon/wp-content/.git/config",
+		"/E/Wamp/www/triathlon/wp-content/.git/index",
+		"/C/Users/Siyam/.ssh/id_rsa.pub",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/library/js/cbforms.js",
+		"/E/Wamp/www/newproject/wp-content/plugins/wp-paginate/wp-paginate.php",
+		"/C/Users/Siyam/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Siyam/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/E/Wamp/www/ISWRDU/wp-content/themes/eNews/index.php",
+		"/C/Users/Siyam/Desktop/test.html",
+		"/E/Wamp/www/vidtest.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/archive.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/library/js/bootstrap.min.js",
+		"/E/Wamp/www/curltest.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/taxanomy-cbcollectioncat.php",
+		"/E/Wamp/www/triathlon/wp-content/themes/wordpress-bootstrap/archive.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/custom2.css",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/style.css",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/library/options-panel.php",
+		"/E/Wamp/www/wordpress/wp-content/plugins/hello.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/admin/options-framework.php",
+		"/I/Code snippets/Custom post type for wordpress.txt",
+		"/E/Wamp/www/wordpress/wp-content/themes/wordpress-bootstrap/page-result.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/page-full-width.php",
+		"/C/Users/Siyam/Desktop/bootstrap-wysihtml5.htm",
+		"/C/Users/Siyam/AppData/Roaming/Mozilla/Firefox/Profiles/h45scwre.default/gm_scripts/Facebook_Comic_Sans_mod/119744.user.js",
+		"/E/Wamp/www/newproject/wp-content/themes/rdcb/functions.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/library/js/scripts.js",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/page-left-sidebar.php",
+		"/E/Wamp/www/newproject/wp-content/themes/rdcb/page-postajobpage.php",
+		"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/library/js/cbformvalidate.js"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"top",
+			"current-slide",
+			"$",
+			"show",
+			"}\n",
+			"show",
+			"5",
+			"wpfvfbutton_addhtml",
+			" * ",
+			"dx_register_settings",
+			"var",
+			"jt_admin_pages_callback",
+			"include",
+			"dx_plugin_base",
+			"dx_admin_pages_callback",
+			"dx",
+			"sample",
+			"dx",
+			"sample",
+			"samplescript",
+			"DXP",
+			"corner",
+			"log",
+			"www.local",
+			"/loca",
+			"premiumdermpath.com",
+			"www.premiumdermpath.com",
+			"premiumdermpath.com",
+			"www.premiumdermpath.com",
+			"www.localhost",
+			"premiumdermpath.com",
+			"$wp_list_table",
+			"apply",
+			"paginat",
+			"pagi",
+			"$page",
+			"page",
+			"cbAjaxFunction",
+			"cbajaxfunction",
+			"cbLoadAdminStyles",
+			"admin_enqueue_scripts",
+			"social",
+			"physicianName",
+			"physician",
+			"cbnamesearch",
+			"practiceName",
+			"$current_user->ID",
+			"getPhysianInfo",
+			"get_user_meta",
+			"custom_columns",
+			"change_columns_testi",
+			"practiceName",
+			"wp_paginate",
+			"var_d",
+			"patientFName",
+			"patientLName",
+			"LN",
+			"FN",
+			"patientFName",
+			"FN",
+			"collectionDateTo",
+			"-admin-script",
+			"accessionNo",
+			"CollectionDate",
+			"patientDOB",
+			"media-upload",
+			"date",
+			"reportAttachID",
+			"reportPDF",
+			"Name",
+			"tN",
+			"FN",
+			"N",
+			"patientName",
+			"cbreport",
+			"Name",
+			"physicianName",
+			"practiceName",
+			"Name",
+			"practiceName",
+			"physicianID",
+			"getPhysianInfo",
+			"addCustomer",
+			"while",
+			"patientName",
+			"Name",
+			"practiceName",
+			"Name",
+			"class=\"\"",
+			"physicianName",
+			"DOB",
+			"physician",
+			"DOB",
+			"Name",
+			"button",
+			"'",
+			"patientTelephone",
+			"SSN",
+			"widefat",
+			"cb_testi_email",
+			"cb_meta_box_nonce",
+			"DOB",
+			"Name",
+			"testimonial",
+			"Testimonial",
+			"cbwsppAdminMenuHtml",
+			"error_reporting",
+			"error",
+			"$publicphoto",
+			"ogOptionsGroup",
+			"my-setting",
+			"my-settings-group",
+			"appID",
+			"$appID",
+			"cbwpssEnqueueScriptsSS",
+			"PLUGINNAME_PATH",
+			"var_dump",
+			"required",
+			"$testiFName",
+			"var_dum",
+			"subsTel",
+			"var_",
+			"form",
+			"Content",
+			"Day",
+			"testiLName",
+			"Email",
+			"testiEmail"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"current-post",
+			"jQuery",
+			"JT",
+			"local",
+			"localhost/premiumdermpath.com",
+			"localhost",
+			"localhost/premiumdermpath.com",
+			"\"",
+			"report",
+			"Report",
+			"testiLName",
+			"testiLName\n	label: {\n		enabled: \"YES\",\n		disabled: \"NO\"\n	}\n})",
+			".toggleButtons({\n	label: {\n		enabled: \"YES\",\n		disabled: \"NO\"\n	}\n})",
+			"' . $termnow->name . '",
+			"viVisit",
+			"NO",
+			"YES",
+			"$subs",
+			"'subs",
+			"viVisitday",
+			"collectionCarousel",
+			"",
+			" ",
+			"al",
+			"album",
+			"Album",
+			"vi",
+			"outfitM",
+			"'sf",
+			"",
+			"$sf",
+			"$_POST['sf",
+			"value=\"\"",
+			"sf",
+			"size data",
+			"Size data",
+			"size data",
+			"Size Data",
+			"#43115D",
+			"#68268C",
+			"$sf",
+			"\"sf",
+			"'sf",
+			"$sf",
+			"zoom-images",
+			"cbformjs",
+			"br",
+			"wp_query",
+			"cbAjaxFunction",
+			"$",
+			"cbTerm",
+			"Catagories",
+			"Catagory",
+			"cbcollectioncat",
+			"Collection",
+			"collection",
+			"Collection",
+			"$bro",
+			"brMailMe",
+			"br",
+			"testi",
+			"cfMailMe",
+			"$cfMailMe",
+			"br",
+			"Brochure request",
+			"brochure request",
+			"Brochure Request",
+			"Contact",
+			"contact",
+			"Contact",
+			"cfLname",
+			"cfFname",
+			"cb_testi_newsletter",
+			"Testimonial",
+			"testimonial",
+			"Testimonial"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/E/Wamp/www/wordpress/wp-content/plugins/dx-plugin-base/dx-plugin-base.php",
+					"settings":
+					{
+						"buffer_size": 10798,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								75,
+								75
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/E/Wamp/www/wordpress/wp-content/plugins/dx-plugin-base/dx-plugin-settings.class.php",
+					"settings":
+					{
+						"buffer_size": 3659,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2773,
+								2773
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/E/Wamp/www/ezpipelite/wp-content/plugins/notification-toolbar/notification.php",
+					"settings":
+					{
+						"buffer_size": 8828,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7005,
+								7005
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3148.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "justticker.php",
+					"settings":
+					{
+						"buffer_size": 3314,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2836,
+								2836
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1151.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "css/jtstyle.css",
+					"settings":
+					{
+						"buffer_size": 765,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								146,
+								146
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/E/Wamp/www/ezpipelite/wp-content/themes/style.css",
+					"settings":
+					{
+						"buffer_size": 27523,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1464,
+								1464
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1054.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/E/Wamp/www/ezpipelite/wp-content/plugins/wpfixedverticalfeedbackbutton/wpfixedverticalfeedbackbutton.php",
+					"settings":
+					{
+						"buffer_size": 12105,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11124,
+								11124
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3813.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "js/jtscript.js",
+					"settings":
+					{
+						"buffer_size": 622,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								282,
+								282
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "/E/Wamp/www/wordpress/wp-content/plugins/wpfixedverticalfeedbackbutton/wpfixedverticalfeedbackbutton.php",
+					"settings":
+					{
+						"buffer_size": 14331,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13521,
+								13521
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5006.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/E/Wamp/www/wordpress/wp-content/plugins/wordpresssocialpowerpack/wordpresssocialpowerpack - Copy.php",
+					"settings":
+					{
+						"buffer_size": 26219,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								161,
+								122
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"settings":
+					{
+						"buffer_size": 299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								217,
+								287
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/E/Wamp/www/triathlon/wp-content/plugins/cb-flickr-gallery/cb-flickr-gallery.php",
+					"settings":
+					{
+						"buffer_size": 8766,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								324,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "inc/jt-options.php",
+					"settings":
+					{
+						"buffer_size": 494,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/E/Wamp/www/WPRS/wp-content/themes/twentytwelve/cbinclude/frontscript.js",
+					"settings":
+					{
+						"buffer_size": 394,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"foo",
+				"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/footer.php"
+			],
+			[
+				"back",
+				"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/single-cbcollection.php.back.php"
+			],
+			[
+				"singe",
+				"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/single-cbcollection.php"
+			],
+			[
+				"page",
+				"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/page-cbcollection.php"
+			],
+			[
+				"",
+				"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/archive-cbtestimonial.php"
+			],
+			[
+				"colle",
+				"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/page-cbcollection.php"
+			],
+			[
+				"testi",
+				"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/page-cbtestimonial.php"
+			],
+			[
+				"test",
+				"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/page-testimonial-post.php"
+			],
+			[
+				"single",
+				"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/single-cbtestimonial.php"
+			],
+			[
+				"broch",
+				"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/page-brochurereq-post.php"
+			],
+			[
+				"cbform",
+				"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/library/js/cbformjs.js"
+			],
+			[
+				"func",
+				"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/functions.php"
+			],
+			[
+				"subs",
+				"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/page-subscribe.php"
+			],
+			[
+				"album",
+				"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/page-albumpost.php"
+			],
+			[
+				"tes",
+				"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/page-testimonial-post.php"
+			],
+			[
+				"albu",
+				"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/page-albumpost.php"
+			],
+			[
+				"bro",
+				"/E/Wamp/www/newproject/wp-content/themes/wordpress-bootstrap/page-brochurereq-post.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/E/Wamp/www/wordpress/wp-content/plugins/wordpresssocialpowerpack/wspp.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true
+}
