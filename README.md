@@ -4,7 +4,7 @@ Contributors: potasiyam
 Tags: wordpress, ticker, recent, headline, latest, post
 Requires at least: 3.0.0
 Tested up to: 3.5.1
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,7 +16,7 @@ This plugin adds a ticker which shows recent posts as headlines. You can set the
 
 ## Installation ##
 
-1. Extract justticker.zip and upload `justticker` folder to the `/wp-content/plugins/` directory
+1. Extract justticker.zip and upload `just-ticker` folder to the `/wp-content/plugins/` directory
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Your plugin is ready. Go to 'Settings > Just Ticker Options' to customize
 
@@ -32,6 +32,9 @@ Go to 'Settings > Just Ticker Options' to customize.
 
 ## Changelog ##
 
+### 1.1 ###
+* Bugs fixed.
+
 ### 1.0 ###
-* Innitial release.
+* Initial release.
 

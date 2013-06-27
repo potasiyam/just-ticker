@@ -5,7 +5,7 @@ Plugin URI: http://www.potasiyam.com
 Author: Tanbin Islam Siyam
 Author URI: http://www.potasiyam.com
 Description: Adds a ticker bar to your wordpress site which will show your recent post headlines.
-Version: 1.0
+Version: 1.1
 Text Domain: just-ticker
 License: GNU GPLv2 or later
  */
@@ -117,7 +117,7 @@ class JT_PlugIn {
 					<li <?php if($i==1){echo 'class="current-post"';$i=0;}?>>
 						<a href="<?php the_permalink(); ?>"><strong><?php the_title(); ?></strong>
 						:
-						<?php $content = get_the_content();echo substr($content, 0, 100);?>
+						<?php $content = get_the_content();echo substr(strip_tags($content), 0, 100);?>
 						</a>
 					</li>
 					<?php endwhile; wp_reset_query();
@@ -137,21 +137,26 @@ class JT_PlugIn {
 
 	function jt_add_styles(){
 		$settings = get_option('jt_setting');
+		?>
+		<style type="text/css">
+		<?php
+		
 		if ($settings['jt_position'] == 'top' && $settings['jt_opt_in'] == 'on'):
 			?>
-			<style type="text/css">
 				#jtbarwrap {
 					position: <?php echo $settings['jt_css_position']?>;
 					top: 0px;
 					border-bottom: 1px solid #aaa;
 					/*margin-top: -10px; */
+					<?php 
+					if( is_admin_bar_showing() )
+					echo 'padding-top: 28px;';
+					?>
 				}
-			</style>
 
 		<?php
 		elseif($settings['jt_opt_in'] == 'on'):
 			?>
-			<style type="text/css">
 				#jtbarwrap{
 					position: <?php echo $settings['jt_css_position']?>;
 					bottom: 0px;
@@ -159,12 +164,11 @@ class JT_PlugIn {
 					/*margin-top: -10px; */
 				}
 
-			</style>
-
-
-
 		<?php 
 		endif;
+		?>
+		</style>
+		<?php
 
 	}
 
